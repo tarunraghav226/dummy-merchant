@@ -1,0 +1,1 @@
+{'jeans':20,'shirt':10,'shoes':25,'tie':3,'socks':3,'belt':5,'blazer':40}
